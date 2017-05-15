@@ -6,7 +6,7 @@ logging:
           samples: WARN
 
 fortune:
-  fallbackFortune: Your future is unclear.
+  fallbackFortune: You are a kaefer
 
 eureka:
   instance:
