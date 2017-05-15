@@ -3,7 +3,7 @@ logging:
     io:
       spring:
         cloud:
-          samples: WARN
+          samples: DEBUG
 
 fortune:
   fallbackFortune: You are a kaefer
